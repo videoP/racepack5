@@ -1,0 +1,118 @@
+Readme File:
+*************************** 
+JEDI KNIGHT 2 and 3
+*************************** 
+
+Title : Acrobat Racing Package
+Author : Acrobat
+Contact email: acrobatmapping@live.com
+
+File Version: 1.0
+Size: about 50 MB megs
+Completion date: 03/30/2013
+----------------------------------------------------------------
+
+Description: 
+I made 14 race maps from scratch. I also converted 6 boris maps from quake defrag with permission from Boris.
+These maps were made ideally for CPM\spinmod, but some of them may work OK for vq3 as well. 
+The maps are: acrobat-redhallways, acrobat-redhallways2, acrobat-redhallways3, acrobat-greenhallways, acrobat-greenhallways2.
+acrobat-greenhallways3, Acrobat-Blackhallways, Acrobat-Blackhallways2, acrobat-metal, acrobat-bridges, acrobat-dash,
+acrobat-dash2, boris_daytime, boris_nighttime, boris_torture1, boris_torture2, boris_torture3, boris_torture4.
+
+Note there are trigger multiples are the start and end of each race course for modders to use.
+
+----------------------------------------------------------------
+
+Credits:
+
+The vast majority of the textures are ones I made from scratch in my previous maps.
+
+I converted the Boris maps from Quake III Defrag with permission from Boris. His maps can be found here:
+http://q3a.ath.cx/maps/?map=&au=BorisXIV
+Loda converted boris_daytime, and bk helped with spacing on that one.
+
+I used a skybox for map acrobat-yellowrace2 called DarkLand that is avaialble for use at this website:
+http://www.redsorceress.com/skybox.html
+
+Loda and BK made the basic spacing the strafe pads distancing, although I modified it, 
+and they made the "crete" textures." 
+
+The texture called "atl_wood" is Szico's Atlantica (got permission)
+http://szicovii.com
+www.map-force.net
+
+Thanks to beta testers: Vrael, Kairos, Boy, Catz
+
+----------------------------------------------------------------
+Physics notes: Some of the maps have yslaramis. If modders are around they can remap as follows.
+In addition, if modders want to ad vertical overbounces (easybounce in twimod) they can do as follows:
+
+
+Remapping the Ysalamiri:
+{
+"classname" "trigger_always"
+"targetShaderName" "powerups/ysalimarishell"
+"targetShaderNewName" "clear"
+}
+
+EasyBounce:
+In "bg_pmove.c" at the bottom of "static void PM_CrashLand( void ) {" add:
+
+	//[Boy] - Bounce!
+	if ( easyBounce.integer == 1 || (easyBounce.integer == 2 && pm->ps->fd.forceJumpZStart > pm->ps->origin[2]) )
+	{
+		vec3_t	velocity;
+		float	speed;
+		
+		VectorCopy(pm->ps->velocity, velocity);
+		velocity[2] = 0;
+		speed = VectorLength(velocity);
+
+		if ( speed < 1 )
+		{ //Nearly 0 speed...
+			pm->ps->velocity[2] = -vel;
+		}
+	}
+	//[/Boy] - Bounce!
+
+
+As for the trigger_multiples for timers, I tried to make sure trigger #1 was at start and trigger #2 was
+at the end. There are a few exceptions in this map pack though which are as follows:
+Acrobat-greenhallways (#2 and #1)
+boris_torture (#10 and #11)
+----------------------------------------------------------------
+Map Information:
+
+New Textures: yes
+New Music: No
+New sounds: No
+New Models: No
+Game types are ffa, duel
+----------------------------------------------------------------
+Compile Information
+bsp_q3map2/q3map2: (final) BSP -meta -notjunc, -vis, -light -fast -samples 2 -lomem
+----------------------------------------------------------------
+
+General Worldspawn Information
+
+_lightmapscale 1
+_blocksize 0
+_chopsize 0
+ambient 17
+distancecull 131048
+
+----------------------------------------------------------------
+Bugs-Darkland skybox didn't line up right. Small areas not caulked on
+redhallways and metal
+
+----------------------------------------------------------------
+
+* How to install * 
+
+Just put the pk3 files into your in your GameData\base game directory
+
+
+------------------------------------------------------------------
+THIS MODIFICATION IS NOT MADE, DISTRIBUTED, OR SUPPORTED BY ACTIVISION, RAVEN, OR
+LUCASARTS ENTERTAINMENT COMPANY LLC. ELEMENTS TM & © LUCASARTS
+ENTERTAINMENT COMPANY LLC AND/OR ITS LICENSORS.
