@@ -101,3 +101,23 @@ textures/racepack5/siwa_water_2
 		tcmod scroll .005 -.001
 	}
 }
+
+textures/racepack5/wall_nograb
+{
+	qer_editorimage	textures/colors/blue
+
+	qer_trans	0.5
+	surfaceparm	noimpact
+	surfaceparm	nomarks
+	surfaceparm	nodraw
+	surfaceparm	nonsolid
+	surfaceparm	nonopaque
+	surfaceparm	playerclip
+	surfaceparm	monsterclip
+	surfaceparm	trans
+	q3map_nolightmap
+
+	{
+		map textures/colors/blue
+	}
+}
