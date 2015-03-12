@@ -1,0 +1,12 @@
+dont do the ysal remap, it affects force drain shader and there is a command in client mod to disable ysal shader 
+cg_draw2d 2
+cg_drawysalShell 0
+
+acrobat metal, acrobat metal2, acrobat bridges, boris_daytime are already included in other racepacks.
+japro racemode has vertical overbounce in q3/cpm/rjcpm/rjq3 physics modes
+
+follow map project readme for what start/stoptimer entities to use (df_trigger_start, df_trigger_checkpoint, df_trigger_finish)
+
+try to encompass all courses (if there isnt already lava/water teleports back to start) with trigger so they can press use to tele back to start of course
+
+
