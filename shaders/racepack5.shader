@@ -104,20 +104,15 @@ textures/racepack5/siwa_water_2
 
 textures/racepack5/wall_nograb
 {
-	qer_editorimage	textures/colors/blue
-
-	qer_trans	0.5
-	surfaceparm	noimpact
-	surfaceparm	nomarks
-	surfaceparm	nodraw
-	surfaceparm	nonsolid
-	surfaceparm	nonopaque
+	qer_editorimage	textures/colors/red
 	surfaceparm	playerclip
-	surfaceparm	monsterclip
-	surfaceparm	trans
-	q3map_nolightmap
-
 	{
-		map textures/colors/blue
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/colors/red
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
 	}
 }
