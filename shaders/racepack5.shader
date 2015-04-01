@@ -434,9 +434,6 @@ textures/racepack5/forcefield_ss
 }
 
 textures/racepack5/hellfog
-//**************************************
-//New death fog that must be in all maps with death fog
-//**************************************
 {
 	qer_editorimage textures/racepack5/kc_fogcloud3.tga
 	surfaceparm	trans
