@@ -165,7 +165,7 @@ textures/racepack5/sommergewitter
 	surfaceparm sky
 	surfaceparm noimpact
 	surfaceparm nolightmap
-	skyparms textures/racepack5/env/sky 2048 -
+	skyparms textures/racepack5/sky_clouds 2048 -
 	nopicmip
 	nomipmaps
 
@@ -282,7 +282,7 @@ textures/racepack5/iceflow_skybox
 	q3map_surfacelight 100
 	surfaceparm sky
 	q3map_sun 0.266383 0.274632 0.358662 150 60 85
-	skyparms env/swelt_ice/iceflow - -
+	skyparms racepack5/iceflow - -
 }
 
 textures/racepack5/u_gr8_12a
@@ -461,5 +461,18 @@ textures/racepack5/hellfog
 		tcmod scroll .01 -.01
 		rgbgen identity
 	}
+}
+
+textures/racepack5/mega_forest_sky
+{
+	qer_editorimage textures/racepack5/mega_forest_view.jpg
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	q3map_globaltexture
+	q3map_lightsubdivide 256
+	q3map_surfacelight 75
+	surfaceparm sky
+	q3map_sun 1.00 0.949 0.977 100 200 45
+	skyparms textures/racepack5/mega_forest - -
 
 }
