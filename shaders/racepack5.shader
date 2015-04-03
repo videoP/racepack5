@@ -476,3 +476,54 @@ textures/racepack5/mega_forest_sky
 	skyparms textures/racepack5/mega_forest - -
 
 }
+
+textures/racepack5/deersky
+{
+	nocompress
+	qer_editorimage textures/racepack5/deersky_ft.tga
+	q3map_lightimage textures/racepack5/deersky1_ft.tga
+	q3map_sunExt .94 .85 .67 120 282 23 .5 16
+	q3map_lightmapFilterRadius 0 64
+	q3map_skylight 50 5
+
+	skyparms textures/racepack5/deersky 384 -
+	surfaceparm nodlight
+	surfaceparm noimpact
+	surfaceparm nomarks
+	surfaceparm nolightmap
+	surfaceparm sky	
+}
+
+textures/racepack5/wannabewater
+{
+	qer_editorimage textures/racepack5/pool3d_3e.tga
+	qer_trans .5
+	surfaceparm trans
+	surfaceparm nonsolid
+	surfaceparm water
+
+	cull disable
+	deformVertexes wave 64 sin .25 .25 0 .5	
+	{ 
+		map textures/racepack5/pool3d_5e.tga
+		blendFunc GL_dst_color GL_one
+		rgbgen identity
+		tcmod scale .5 .5
+		tcmod scroll .025 .01
+	}
+
+	{ 
+		map textures/racepack5/pool3d_3e.tga
+		blendFunc GL_dst_color GL_one
+		tcmod scale -.5 -.5
+		tcmod scroll .025 .025
+	}
+
+
+	{
+		map $lightmap
+		blendFunc GL_dst_color GL_zero
+		rgbgen identity		
+	}
+
+}
