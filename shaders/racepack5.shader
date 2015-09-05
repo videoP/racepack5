@@ -997,6 +997,7 @@ textures/racepack5/calm_pool_nolight
 
 textures/racepack5/techfloor_kc_blue
 {
+	qer_editorimage textures/racepack5/zzztblue_kc.tga
 	surfaceparm	metalsteps
 	surfaceparm 	alphashadow
 	surfaceparm	nomarks	   
@@ -1445,4 +1446,192 @@ textures/racepack5/alpha_100	// Secondary texture ONLY
 	surfaceparm nonsolid
 	surfaceparm trans
 	qer_trans 0.75
+}
+
+textures/cpmctf3/ctf_blueflag
+{
+        tessSize 64
+        deformVertexes wave 194 sin 0 3 0 .4
+        deformVertexes normal .5 .1
+        surfaceparm nomarks
+        cull none
+        
+        {
+		map textures/cpmctf3/ctf_blueflag.tga
+		rgbGen identity
+	}
+        {
+		map textures/cpmctf3/redflagmap.tga
+                tcGen environment
+                tcmod scale 9 3
+                tcmod scroll .1 .7
+                
+                blendFunc GL_ONE GL_ONE
+                rgbGen identity
+	}
+        {
+		map textures/cpmctf3/ctf_blueflag.tga
+                blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
+		rgbGen identity
+	}
+        {
+		map $lightmap
+                blendFunc GL_DST_COLOR GL_ONE_MINUS_DST_ALPHA
+		rgbGen identity
+	}
+        {
+        	map textures/cpmctf3/shadow.jpg
+                tcGen environment        
+                blendFunc GL_DST_COLOR GL_ZERO
+               rgbGen identity
+	}
+}
+
+textures/cpmctf3/ctf_redflag
+{
+        tessSize 64
+        deformVertexes wave 194 sin 0 3 0 .4
+        deformVertexes normal .3 .2
+        surfaceparm nomarks
+        cull none
+
+        {
+		map textures/cpmctf3/ctf_redflag.tga
+		rgbGen identity
+	}
+        {
+		map textures/cpmctf3/blueflagmap.tga
+                 tcGen environment
+                tcmod scale 9 3
+                tcmod scroll .1 .7
+                
+                blendFunc GL_ONE GL_ONE
+                rgbGen identity
+	}
+        {
+		map textures/cpmctf3/ctf_redflag.tga
+                blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
+		rgbGen identity
+	}
+        {
+		map $lightmap
+                blendFunc GL_DST_COLOR GL_ONE_MINUS_DST_ALPHA
+		rgbGen identity
+	}
+        {
+
+        	map textures/cpmctf3/shadow.jpg
+                tcGen environment        
+                blendFunc GL_DST_COLOR GL_ZERO
+               rgbGen identity
+	}
+}
+
+textures/racepack5/xflame2_1800
+{
+	surfaceparm nomarks
+	surfaceparm nolightmap
+	cull none
+	q3map_surfacelight 1800
+	qer_editorimage textures/racepack5/flame1.tga
+	{
+		animMap 10 textures/racepack5/flame1.tga textures/racepack5/flame2.tga textures/racepack5/flame3.tga textures/racepack5/flame4.tga textures/racepack5/flame5.tga textures/racepack5/flame6.tga textures/racepack5/flame7.tga textures/racepack5/flame8.tga
+		blendFunc GL_ONE GL_ONE
+		rgbGen wave inverseSawtooth 0 1 0 10
+	}
+	{
+		animMap 10 textures/racepack5/flame2.tga textures/racepack5/flame3.tga textures/racepack5/flame4.tga textures/racepack5/flame5.tga textures/racepack5/flame6.tga textures/racepack5/flame7.tga textures/racepack5/flame8.tga textures/racepack5/flame1.tga
+		blendFunc GL_ONE GL_ONE
+		rgbGen wave sawtooth 0 1 0 10
+	}
+	{
+		map textures/racepack5/flameball.tga
+		blendFunc GL_ONE GL_ONE
+		rgbGen wave sin .6 .2 0 .6
+	}
+}
+
+textures/sockter/alpha_000
+{
+	q3map_alphaMod volume
+	q3map_alphaMod set 0
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+	qer_trans 0.75
+}
+
+textures/sockter/alpha_025
+{
+	q3map_alphaMod volume
+	q3map_alphaMod set 0.25
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+	qer_trans 0.75
+}
+
+textures/sockter/alpha_050
+{
+	q3map_alphaMod volume
+	q3map_alphaMod set 0.50
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+	qer_trans 0.75
+}
+
+textures/sockter/alpha_075
+{
+	q3map_alphaMod volume
+	q3map_alphaMod set 0.75
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+	qer_trans 0.75
+}
+
+textures/sockter/alpha_085
+{
+	q3map_alphaMod volume
+	q3map_alphaMod set 0.85
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+	qer_trans 0.75
+}
+
+textures/sockter/alpha_100
+{
+	q3map_alphaMod volume
+	q3map_alphaMod set 1.0
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+	qer_trans 0.75
+}
+
+textures/racepack5/flame1side
+{
+	qer_editorimage textures/racepack5/flame1.tga
+	surfaceparm trans
+	surfaceparm nomarks
+	surfaceparm nonsolid
+	surfaceparm nolightmap
+	cull none
+	{
+		animMap 10 textures/racepack5/flame1.tga textures/racepack5/flame2.tga textures/racepack5/flame3.tga textures/racepack5/flame4.tga textures/racepack5/flame5.tga textures/racepack5/flame6.tga textures/racepack5/flame7.tga textures/racepack5/flame8.tga
+		blendFunc GL_ONE GL_ONE
+		rgbGen wave inverseSawtooth 0 1 0 10
+	}
+	{
+		animMap 10 textures/racepack5/flame2.tga textures/racepack5/flame3.tga textures/racepack5/flame4.tga textures/racepack5/flame5.tga textures/racepack5/flame6.tga textures/racepack5/flame7.tga textures/racepack5/flame8.tga textures/racepack5/flame1.tga
+		blendFunc GL_ONE GL_ONE
+		rgbGen wave sawtooth 0 1 0 10
+	}
+	{
+		map textures/racepack5/flameball.tga
+		blendFunc GL_ONE GL_ONE
+		rgbGen wave sin .6 .2 0 .6
+	}
 }
