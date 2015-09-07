@@ -11165,7 +11165,7 @@ racepack5/ubase4b
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 1840 2304 -80 0.843750 0.093750 ) ( 1760 2304 -80 0.843750 0.343750 ) ( 1680 2304 -80 0.843750 0.593750 ) )
@@ -11180,7 +11180,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 1680 2304 -64 0.843750 0.593750 ) ( 1760 2304 -64 0.843750 0.343750 ) ( 1840 2304 -64 0.843750 0.093750 ) )
@@ -11375,7 +11375,7 @@ racepack5/ubase_trim5
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 1264 2304 -80 0.843750 0.093750 ) ( 1184 2304 -80 0.843750 0.343750 ) ( 1104 2304 -80 0.843750 0.593750 ) )
@@ -11390,7 +11390,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 1104 2304 -64 0.843750 0.593750 ) ( 1184 2304 -64 0.843750 0.343750 ) ( 1264 2304 -64 0.843750 0.093750 ) )
@@ -12178,7 +12178,7 @@ racepack5/ubase_pan_trix
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 384 608 -80 0.843750 0.093750 ) ( 256 608 -80 0.843750 0.343750 ) ( 128 608 -80 0.843750 0.593750 ) )
@@ -12193,7 +12193,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 128 608 -64 0.843750 0.593750 ) ( 256 608 -64 0.843750 0.343750 ) ( 384 608 -64 0.843750 0.093750 ) )
@@ -12208,7 +12208,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 384 1056 -80 0.843750 0.093750 ) ( 256 1056 -80 0.843750 0.343750 ) ( 128 1056 -80 0.843750 0.593750 ) )
@@ -12223,7 +12223,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 128 1056 -64 0.843750 0.593750 ) ( 256 1056 -64 0.843750 0.343750 ) ( 384 1056 -64 0.843750 0.093750 ) )
@@ -12238,7 +12238,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 384 1504 -80 0.843750 0.093750 ) ( 256 1504 -80 0.843750 0.343750 ) ( 128 1504 -80 0.843750 0.593750 ) )
@@ -12253,7 +12253,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 128 1504 -64 0.843750 0.593750 ) ( 256 1504 -64 0.843750 0.343750 ) ( 384 1504 -64 0.843750 0.093750 ) )
@@ -12268,7 +12268,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 2592 2176 -80 0.843750 0.093750 ) ( 2592 2048 -80 0.843750 0.343750 ) ( 2592 1920 -80 0.843750 0.593750 ) )
@@ -12283,7 +12283,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 2592 1920 -64 0.843750 0.593750 ) ( 2592 2048 -64 0.843750 0.343750 ) ( 2592 2176 -64 0.843750 0.093750 ) )
@@ -12298,7 +12298,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 2016 2176 -80 0.843750 0.093750 ) ( 2016 2048 -80 0.843750 0.343750 ) ( 2016 1920 -80 0.843750 0.593750 ) )
@@ -12313,7 +12313,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 2016 1920 -64 0.843750 0.593750 ) ( 2016 2048 -64 0.843750 0.343750 ) ( 2016 2176 -64 0.843750 0.093750 ) )
@@ -12328,7 +12328,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 1440 2176 -80 0.843750 0.093750 ) ( 1440 2048 -80 0.843750 0.343750 ) ( 1440 1920 -80 0.843750 0.593750 ) )
@@ -12343,7 +12343,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 1440 1920 -64 0.843750 0.593750 ) ( 1440 2048 -64 0.843750 0.343750 ) ( 1440 2176 -64 0.843750 0.093750 ) )
@@ -12358,7 +12358,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 688 2304 -80 0.843750 0.093750 ) ( 608 2304 -80 0.843750 0.343750 ) ( 528 2304 -80 0.843750 0.593750 ) )
@@ -12373,7 +12373,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 528 2304 -64 0.843750 0.593750 ) ( 608 2304 -64 0.843750 0.343750 ) ( 688 2304 -64 0.843750 0.093750 ) )
@@ -12388,7 +12388,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 864 2176 -80 0.843750 0.093750 ) ( 864 2048 -80 0.843750 0.343750 ) ( 864 1920 -80 0.843750 0.593750 ) )
@@ -12403,7 +12403,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 864 1920 -64 0.843750 0.593750 ) ( 864 2048 -64 0.843750 0.343750 ) ( 864 2176 -64 0.843750 0.093750 ) )
@@ -18029,7 +18029,7 @@ racepack5/wall_12or_plain
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3272 400 0.125000 0.248047 ) ( 4184 3272 404 0.156250 0.248047 ) ( 4184 3272 408 0.187500 0.248047 ) ( 4184 3272 435 0.398438 0.248047 ) ( 4184 3272 448 0.500000 0.248047 ) )
@@ -18042,7 +18042,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3257 400 0.195313 0.250000 ) ( 4184 3257 444 0.195313 0.250000 ) ( 4184 3257 458 0.195313 0.250000 ) )
@@ -18055,7 +18055,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3264 400 0.250000 0.250000 ) ( 4184 3264 444 0.250000 0.250000 ) ( 4184 3264 452 0.250000 0.250000 ) )
@@ -18068,7 +18068,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3232 400 0 0.218750 ) ( 4184 3232 440 0 0.218750 ) ( 4184 3232 480 0 0.218750 ) )
@@ -18081,7 +18081,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3257 458 0.195313 0.250000 ) ( 4184 3257 472 0.195313 0.250000 ) ( 4184 3257 480 0.195313 0.250000 ) )
@@ -18094,7 +18094,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3264 462 0.250000 0.250000 ) ( 4184 3264 472 0.250000 0.250000 ) ( 4184 3264 480 0.250000 0.250000 ) )
@@ -18107,7 +18107,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3264 456 0.250000 0.250000 ) ( 4184 3261.500000 457.250000 0.230469 0.250000 ) ( 4184 3260 458 0.218750 0.250000 ) ( 4184 3262 459.500000 0.234375 0.250000 ) ( 4184 3264 461 0.250000 0.250000 ) )
@@ -18120,7 +18120,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3272 454 0.312500 0.250000 ) ( 4184 3266 459 0.265625 0.250000 ) ( 4184 3268 480 0.281250 0.250000 ) )
@@ -18133,7 +18133,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3286 452 0.421875 0.250000 ) ( 4184 3286 466 0.421875 0.250000 ) ( 4184 3286 480 0.421875 0.250000 ) )
@@ -18146,7 +18146,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3290 400 0.453125 0.875000 ) ( 4184 3290 422 0.453125 0.703125 ) ( 4184 3290 444 0.453125 0.531250 ) ( 4184 3290 448 0.453125 0.500000 ) ( 4184 3290 452 0.453125 0.468750 ) )
@@ -18159,7 +18159,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3320 448 0.500000 0.248047 ) ( 4184 3320 435 0.398438 0.248047 ) ( 4184 3320 408 0.187500 0.248047 ) ( 4184 3320 404 0.156250 0.248047 ) ( 4184 3320 400 0.125000 0.248047 ) )
@@ -18172,7 +18172,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3335 458 0.195313 0.250000 ) ( 4184 3335 444 0.195313 0.250000 ) ( 4184 3335 400 0.195313 0.250000 ) )
@@ -18185,7 +18185,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3328 452 0.250000 0.250000 ) ( 4184 3328 444 0.250000 0.250000 ) ( 4184 3328 400 0.250000 0.250000 ) )
@@ -18198,7 +18198,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3360 480 0 0.218750 ) ( 4184 3360 440 0 0.218750 ) ( 4184 3360 400 0 0.218750 ) )
@@ -18211,7 +18211,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3335 480 0.195313 0.250000 ) ( 4184 3335 472 0.195313 0.250000 ) ( 4184 3335 458 0.195313 0.250000 ) )
@@ -18224,7 +18224,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3328 480 0.250000 0.250000 ) ( 4184 3328 472 0.250000 0.250000 ) ( 4184 3328 462 0.250000 0.250000 ) )
@@ -18237,7 +18237,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3328 461 0.250000 0.250000 ) ( 4184 3330 459.500000 0.234375 0.250000 ) ( 4184 3332 458 0.218750 0.250000 ) ( 4184 3330.500000 457.250000 0.230469 0.250000 ) ( 4184 3328 456 0.250000 0.250000 ) )
@@ -18250,7 +18250,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3324 480 0.281250 0.250000 ) ( 4184 3326 459 0.265625 0.250000 ) ( 4184 3320 454 0.312500 0.250000 ) )
@@ -18263,7 +18263,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3306 480 0.421875 0.250000 ) ( 4184 3306 466 0.421875 0.250000 ) ( 4184 3306 452 0.421875 0.250000 ) )
@@ -18276,7 +18276,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3302 452 0.453125 0.468750 ) ( 4184 3302 448 0.453125 0.500000 ) ( 4184 3302 444 0.453125 0.531250 ) ( 4184 3302 422 0.453125 0.703125 ) ( 4184 3302 400 0.453125 0.875000 ) )
@@ -18289,7 +18289,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3328 462 0 0 ) ( 4184 3328 461.500000 0 0 ) ( 4184 3328 461 0 0 ) )
@@ -18302,7 +18302,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3335 458 0 1 ) ( 4184 3333.500000 458 0 0.999756 ) ( 4184 3332 458 0 0.999512 ) )
@@ -18315,7 +18315,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3328 452 0 1 ) ( 4184 3328 454 0 0.999268 ) ( 4184 3328 456 0 0.998535 ) )
@@ -18328,7 +18328,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3320 448 0 1 ) ( 4184 3320 450 0 0.999023 ) ( 4184 3320 454 0 0.998047 ) )
@@ -18341,7 +18341,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3306 444 0 1 ) ( 4184 3306 448 0 0.998535 ) ( 4184 3306 452 0 0.997070 ) )
@@ -18354,7 +18354,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3302 408 0 1 ) ( 4184 3302 426 0 0.991157 ) ( 4184 3302 444 0 0.982314 ) ( 4184 3302 447 0 0.980849 ) ( 4184 3302 452 0 0.978407 ) )
@@ -18367,7 +18367,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3264 461 0 0 ) ( 4184 3264 461.500000 0 0 ) ( 4184 3264 462 0 0 ) )
@@ -18380,7 +18380,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3260 458 0 0.999512 ) ( 4184 3258.500000 458 0 0.999756 ) ( 4184 3257 458 0 1 ) )
@@ -18393,7 +18393,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3264 456 0 0.998535 ) ( 4184 3264 454 0 0.999268 ) ( 4184 3264 452 0 1 ) )
@@ -18406,7 +18406,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3272 454 0 0.998047 ) ( 4184 3272 450 0 0.999023 ) ( 4184 3272 448 0 1 ) )
@@ -18419,7 +18419,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3286 452 0 0.997070 ) ( 4184 3286 448 0 0.998535 ) ( 4184 3286 444 0 1 ) )
@@ -18432,7 +18432,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3290 452 0 0.978407 ) ( 4184 3290 447 0 0.980849 ) ( 4184 3290 444 0 0.982314 ) ( 4184 3290 426 0 0.991157 ) ( 4184 3290 408 0 1 ) )
@@ -18445,7 +18445,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4184 3300 452 0 0.996094 ) ( 4184 3300 448 0 0.998047 ) ( 4184 3300 444 0 1 ) )
@@ -18460,7 +18460,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4184 3328 320 0 0 ) ( 4184 3296 320 0 0.500000 ) ( 4184 3264 320 0 1 ) )
@@ -18475,7 +18475,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4184 3264 576 0 0 ) ( 4184 3296 576 0 0.500000 ) ( 4184 3328 576 0 1 ) )
@@ -18490,7 +18490,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3720 400 0.125000 0.248047 ) ( 4184 3720 404 0.156250 0.248047 ) ( 4184 3720 408 0.187500 0.248047 ) ( 4184 3720 435 0.398438 0.248047 ) ( 4184 3720 448 0.500000 0.248047 ) )
@@ -18503,7 +18503,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3705 400 0.195313 0.250000 ) ( 4184 3705 444 0.195313 0.250000 ) ( 4184 3705 458 0.195313 0.250000 ) )
@@ -18516,7 +18516,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3712 400 0.250000 0.250000 ) ( 4184 3712 444 0.250000 0.250000 ) ( 4184 3712 452 0.250000 0.250000 ) )
@@ -18529,7 +18529,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3680 400 0 0.218750 ) ( 4184 3680 440 0 0.218750 ) ( 4184 3680 480 0 0.218750 ) )
@@ -18542,7 +18542,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3705 458 0.195313 0.250000 ) ( 4184 3705 472 0.195313 0.250000 ) ( 4184 3705 480 0.195313 0.250000 ) )
@@ -18555,7 +18555,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3712 462 0.250000 0.250000 ) ( 4184 3712 472 0.250000 0.250000 ) ( 4184 3712 480 0.250000 0.250000 ) )
@@ -18568,7 +18568,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3712 456 0.250000 0.250000 ) ( 4184 3709.500000 457.250000 0.230469 0.250000 ) ( 4184 3708 458 0.218750 0.250000 ) ( 4184 3710 459.500000 0.234375 0.250000 ) ( 4184 3712 461 0.250000 0.250000 ) )
@@ -18581,7 +18581,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3720 454 0.312500 0.250000 ) ( 4184 3714 459 0.265625 0.250000 ) ( 4184 3716 480 0.281250 0.250000 ) )
@@ -18594,7 +18594,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3734 452 0.421875 0.250000 ) ( 4184 3734 466 0.421875 0.250000 ) ( 4184 3734 480 0.421875 0.250000 ) )
@@ -18607,7 +18607,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3738 400 0.453125 0.875000 ) ( 4184 3738 422 0.453125 0.703125 ) ( 4184 3738 444 0.453125 0.531250 ) ( 4184 3738 448 0.453125 0.500000 ) ( 4184 3738 452 0.453125 0.468750 ) )
@@ -18620,7 +18620,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3768 448 0.500000 0.248047 ) ( 4184 3768 435 0.398438 0.248047 ) ( 4184 3768 408 0.187500 0.248047 ) ( 4184 3768 404 0.156250 0.248047 ) ( 4184 3768 400 0.125000 0.248047 ) )
@@ -18633,7 +18633,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3783 458 0.195313 0.250000 ) ( 4184 3783 444 0.195313 0.250000 ) ( 4184 3783 400 0.195313 0.250000 ) )
@@ -18646,7 +18646,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3776 452 0.250000 0.250000 ) ( 4184 3776 444 0.250000 0.250000 ) ( 4184 3776 400 0.250000 0.250000 ) )
@@ -18659,7 +18659,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3808 480 0 0.218750 ) ( 4184 3808 440 0 0.218750 ) ( 4184 3808 400 0 0.218750 ) )
@@ -18672,7 +18672,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3783 480 0.195313 0.250000 ) ( 4184 3783 472 0.195313 0.250000 ) ( 4184 3783 458 0.195313 0.250000 ) )
@@ -18685,7 +18685,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3776 480 0.250000 0.250000 ) ( 4184 3776 472 0.250000 0.250000 ) ( 4184 3776 462 0.250000 0.250000 ) )
@@ -18698,7 +18698,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3776 461 0.250000 0.250000 ) ( 4184 3778 459.500000 0.234375 0.250000 ) ( 4184 3780 458 0.218750 0.250000 ) ( 4184 3778.500000 457.250000 0.230469 0.250000 ) ( 4184 3776 456 0.250000 0.250000 ) )
@@ -18711,7 +18711,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3772 480 0.281250 0.250000 ) ( 4184 3774 459 0.265625 0.250000 ) ( 4184 3768 454 0.312500 0.250000 ) )
@@ -18724,7 +18724,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3754 480 0.421875 0.250000 ) ( 4184 3754 466 0.421875 0.250000 ) ( 4184 3754 452 0.421875 0.250000 ) )
@@ -18737,7 +18737,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3750 452 0.453125 0.468750 ) ( 4184 3750 448 0.453125 0.500000 ) ( 4184 3750 444 0.453125 0.531250 ) ( 4184 3750 422 0.453125 0.703125 ) ( 4184 3750 400 0.453125 0.875000 ) )
@@ -18750,7 +18750,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3776 462 0 0 ) ( 4184 3776 461.500000 0 0 ) ( 4184 3776 461 0 0 ) )
@@ -18763,7 +18763,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3783 458 0 1 ) ( 4184 3781.500000 458 0 0.999756 ) ( 4184 3780 458 0 0.999512 ) )
@@ -18776,7 +18776,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3776 452 0 1 ) ( 4184 3776 454 0 0.999268 ) ( 4184 3776 456 0 0.998535 ) )
@@ -18789,7 +18789,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3768 448 0 1 ) ( 4184 3768 450 0 0.999023 ) ( 4184 3768 454 0 0.998047 ) )
@@ -18802,7 +18802,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3754 444 0 1 ) ( 4184 3754 448 0 0.998535 ) ( 4184 3754 452 0 0.997070 ) )
@@ -18815,7 +18815,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3750 408 0 1 ) ( 4184 3750 426 0 0.991157 ) ( 4184 3750 444 0 0.982314 ) ( 4184 3750 447 0 0.980849 ) ( 4184 3750 452 0 0.978407 ) )
@@ -18828,7 +18828,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3712 461 0 0 ) ( 4184 3712 461.500000 0 0 ) ( 4184 3712 462 0 0 ) )
@@ -18841,7 +18841,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3708 458 0 0.999512 ) ( 4184 3706.500000 458 0 0.999756 ) ( 4184 3705 458 0 1 ) )
@@ -18854,7 +18854,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3712 456 0 0.998535 ) ( 4184 3712 454 0 0.999268 ) ( 4184 3712 452 0 1 ) )
@@ -18867,7 +18867,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3720 454 0 0.998047 ) ( 4184 3720 450 0 0.999023 ) ( 4184 3720 448 0 1 ) )
@@ -18880,7 +18880,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4184 3734 452 0 0.997070 ) ( 4184 3734 448 0 0.998535 ) ( 4184 3734 444 0 1 ) )
@@ -18893,7 +18893,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4184 3738 452 0 0.978407 ) ( 4184 3738 447 0 0.980849 ) ( 4184 3738 444 0 0.982314 ) ( 4184 3738 426 0 0.991157 ) ( 4184 3738 408 0 1 ) )
@@ -18906,7 +18906,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4184 3748 452 0 0.996094 ) ( 4184 3748 448 0 0.998047 ) ( 4184 3748 444 0 1 ) )
@@ -18921,7 +18921,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4184 3776 320 0 0 ) ( 4184 3744 320 0 0.500000 ) ( 4184 3712 320 0 1 ) )
@@ -18936,7 +18936,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4184 3712 576 0 0 ) ( 4184 3744 576 0 0.500000 ) ( 4184 3776 576 0 1 ) )
@@ -18951,7 +18951,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3720 448 0.500000 0.248047 ) ( 4520 3720 435 0.398438 0.248047 ) ( 4520 3720 408 0.187500 0.248047 ) ( 4520 3720 404 0.156250 0.248047 ) ( 4520 3720 400 0.125000 0.248047 ) )
@@ -18964,7 +18964,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3705 458 0.195313 0.250000 ) ( 4520 3705 444 0.195313 0.250000 ) ( 4520 3705 400 0.195313 0.250000 ) )
@@ -18977,7 +18977,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3712 452 0.250000 0.250000 ) ( 4520 3712 444 0.250000 0.250000 ) ( 4520 3712 400 0.250000 0.250000 ) )
@@ -18990,7 +18990,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3680 480 0 0.218750 ) ( 4520 3680 440 0 0.218750 ) ( 4520 3680 400 0 0.218750 ) )
@@ -19003,7 +19003,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3705 480 0.195313 0.250000 ) ( 4520 3705 472 0.195313 0.250000 ) ( 4520 3705 458 0.195313 0.250000 ) )
@@ -19016,7 +19016,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3712 480 0.250000 0.250000 ) ( 4520 3712 472 0.250000 0.250000 ) ( 4520 3712 462 0.250000 0.250000 ) )
@@ -19029,7 +19029,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3712 461 0.250000 0.250000 ) ( 4520 3710 459.500000 0.234375 0.250000 ) ( 4520 3708 458 0.218750 0.250000 ) ( 4520 3709.500000 457.250000 0.230469 0.250000 ) ( 4520 3712 456 0.250000 0.250000 ) )
@@ -19042,7 +19042,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3716 480 0.281250 0.250000 ) ( 4520 3714 459 0.265625 0.250000 ) ( 4520 3720 454 0.312500 0.250000 ) )
@@ -19055,7 +19055,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3734 480 0.421875 0.250000 ) ( 4520 3734 466 0.421875 0.250000 ) ( 4520 3734 452 0.421875 0.250000 ) )
@@ -19068,7 +19068,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3738 452 0.453125 0.468750 ) ( 4520 3738 448 0.453125 0.500000 ) ( 4520 3738 444 0.453125 0.531250 ) ( 4520 3738 422 0.453125 0.703125 ) ( 4520 3738 400 0.453125 0.875000 ) )
@@ -19081,7 +19081,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3768 400 0.125000 0.248047 ) ( 4520 3768 404 0.156250 0.248047 ) ( 4520 3768 408 0.187500 0.248047 ) ( 4520 3768 435 0.398438 0.248047 ) ( 4520 3768 448 0.500000 0.248047 ) )
@@ -19094,7 +19094,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3783 400 0.195313 0.250000 ) ( 4520 3783 444 0.195313 0.250000 ) ( 4520 3783 458 0.195313 0.250000 ) )
@@ -19107,7 +19107,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3776 400 0.250000 0.250000 ) ( 4520 3776 444 0.250000 0.250000 ) ( 4520 3776 452 0.250000 0.250000 ) )
@@ -19120,7 +19120,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3808 400 0 0.218750 ) ( 4520 3808 440 0 0.218750 ) ( 4520 3808 480 0 0.218750 ) )
@@ -19133,7 +19133,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3783 458 0.195313 0.250000 ) ( 4520 3783 472 0.195313 0.250000 ) ( 4520 3783 480 0.195313 0.250000 ) )
@@ -19146,7 +19146,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3776 462 0.250000 0.250000 ) ( 4520 3776 472 0.250000 0.250000 ) ( 4520 3776 480 0.250000 0.250000 ) )
@@ -19159,7 +19159,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3776 456 0.250000 0.250000 ) ( 4520 3778.500000 457.250000 0.230469 0.250000 ) ( 4520 3780 458 0.218750 0.250000 ) ( 4520 3778 459.500000 0.234375 0.250000 ) ( 4520 3776 461 0.250000 0.250000 ) )
@@ -19172,7 +19172,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3768 454 0.312500 0.250000 ) ( 4520 3774 459 0.265625 0.250000 ) ( 4520 3772 480 0.281250 0.250000 ) )
@@ -19185,7 +19185,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3754 452 0.421875 0.250000 ) ( 4520 3754 466 0.421875 0.250000 ) ( 4520 3754 480 0.421875 0.250000 ) )
@@ -19198,7 +19198,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3750 400 0.453125 0.875000 ) ( 4520 3750 422 0.453125 0.703125 ) ( 4520 3750 444 0.453125 0.531250 ) ( 4520 3750 448 0.453125 0.500000 ) ( 4520 3750 452 0.453125 0.468750 ) )
@@ -19211,7 +19211,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3776 461 0 0 ) ( 4520 3776 461.500000 0 0 ) ( 4520 3776 462 0 0 ) )
@@ -19224,7 +19224,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3780 458 0 0.999512 ) ( 4520 3781.500000 458 0 0.999756 ) ( 4520 3783 458 0 1 ) )
@@ -19237,7 +19237,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3776 456 0 0.998535 ) ( 4520 3776 454 0 0.999268 ) ( 4520 3776 452 0 1 ) )
@@ -19250,7 +19250,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3768 454 0 0.998047 ) ( 4520 3768 450 0 0.999023 ) ( 4520 3768 448 0 1 ) )
@@ -19263,7 +19263,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3754 452 0 0.997070 ) ( 4520 3754 448 0 0.998535 ) ( 4520 3754 444 0 1 ) )
@@ -19276,7 +19276,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3750 452 0 0.978407 ) ( 4520 3750 447 0 0.980849 ) ( 4520 3750 444 0 0.982314 ) ( 4520 3750 426 0 0.991157 ) ( 4520 3750 408 0 1 ) )
@@ -19289,7 +19289,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3712 462 0 0 ) ( 4520 3712 461.500000 0 0 ) ( 4520 3712 461 0 0 ) )
@@ -19302,7 +19302,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3705 458 0 1 ) ( 4520 3706.500000 458 0 0.999756 ) ( 4520 3708 458 0 0.999512 ) )
@@ -19315,7 +19315,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3712 452 0 1 ) ( 4520 3712 454 0 0.999268 ) ( 4520 3712 456 0 0.998535 ) )
@@ -19328,7 +19328,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3720 448 0 1 ) ( 4520 3720 450 0 0.999023 ) ( 4520 3720 454 0 0.998047 ) )
@@ -19341,7 +19341,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3734 444 0 1 ) ( 4520 3734 448 0 0.998535 ) ( 4520 3734 452 0 0.997070 ) )
@@ -19354,7 +19354,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3738 408 0 1 ) ( 4520 3738 426 0 0.991157 ) ( 4520 3738 444 0 0.982314 ) ( 4520 3738 447 0 0.980849 ) ( 4520 3738 452 0 0.978407 ) )
@@ -19367,7 +19367,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4520 3748 444 0 1 ) ( 4520 3748 448 0 0.998047 ) ( 4520 3748 452 0 0.996094 ) )
@@ -19382,7 +19382,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4520 3712 320 0 1 ) ( 4520 3744 320 0 0.500000 ) ( 4520 3776 320 0 0 ) )
@@ -19397,7 +19397,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4520 3776 576 0 1 ) ( 4520 3744 576 0 0.500000 ) ( 4520 3712 576 0 0 ) )
@@ -19412,7 +19412,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3272 448 0.500000 0.248047 ) ( 4520 3272 435 0.398438 0.248047 ) ( 4520 3272 408 0.187500 0.248047 ) ( 4520 3272 404 0.156250 0.248047 ) ( 4520 3272 400 0.125000 0.248047 ) )
@@ -19425,7 +19425,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3257 458 0.195313 0.250000 ) ( 4520 3257 444 0.195313 0.250000 ) ( 4520 3257 400 0.195313 0.250000 ) )
@@ -19438,7 +19438,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3264 452 0.250000 0.250000 ) ( 4520 3264 444 0.250000 0.250000 ) ( 4520 3264 400 0.250000 0.250000 ) )
@@ -19451,7 +19451,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3232 480 0 0.218750 ) ( 4520 3232 440 0 0.218750 ) ( 4520 3232 400 0 0.218750 ) )
@@ -19464,7 +19464,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3257 480 0.195313 0.250000 ) ( 4520 3257 472 0.195313 0.250000 ) ( 4520 3257 458 0.195313 0.250000 ) )
@@ -19477,7 +19477,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3264 480 0.250000 0.250000 ) ( 4520 3264 472 0.250000 0.250000 ) ( 4520 3264 462 0.250000 0.250000 ) )
@@ -19490,7 +19490,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3264 461 0.250000 0.250000 ) ( 4520 3262 459.500000 0.234375 0.250000 ) ( 4520 3260 458 0.218750 0.250000 ) ( 4520 3261.500000 457.250000 0.230469 0.250000 ) ( 4520 3264 456 0.250000 0.250000 ) )
@@ -19503,7 +19503,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3268 480 0.281250 0.250000 ) ( 4520 3266 459 0.265625 0.250000 ) ( 4520 3272 454 0.312500 0.250000 ) )
@@ -19516,7 +19516,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3286 480 0.421875 0.250000 ) ( 4520 3286 466 0.421875 0.250000 ) ( 4520 3286 452 0.421875 0.250000 ) )
@@ -19529,7 +19529,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3290 452 0.453125 0.468750 ) ( 4520 3290 448 0.453125 0.500000 ) ( 4520 3290 444 0.453125 0.531250 ) ( 4520 3290 422 0.453125 0.703125 ) ( 4520 3290 400 0.453125 0.875000 ) )
@@ -19542,7 +19542,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3320 400 0.125000 0.248047 ) ( 4520 3320 404 0.156250 0.248047 ) ( 4520 3320 408 0.187500 0.248047 ) ( 4520 3320 435 0.398438 0.248047 ) ( 4520 3320 448 0.500000 0.248047 ) )
@@ -19555,7 +19555,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3335 400 0.195313 0.250000 ) ( 4520 3335 444 0.195313 0.250000 ) ( 4520 3335 458 0.195313 0.250000 ) )
@@ -19568,7 +19568,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3328 400 0.250000 0.250000 ) ( 4520 3328 444 0.250000 0.250000 ) ( 4520 3328 452 0.250000 0.250000 ) )
@@ -19581,7 +19581,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3360 400 0 0.218750 ) ( 4520 3360 440 0 0.218750 ) ( 4520 3360 480 0 0.218750 ) )
@@ -19594,7 +19594,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3335 458 0.195313 0.250000 ) ( 4520 3335 472 0.195313 0.250000 ) ( 4520 3335 480 0.195313 0.250000 ) )
@@ -19607,7 +19607,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3328 462 0.250000 0.250000 ) ( 4520 3328 472 0.250000 0.250000 ) ( 4520 3328 480 0.250000 0.250000 ) )
@@ -19620,7 +19620,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3328 456 0.250000 0.250000 ) ( 4520 3330.500000 457.250000 0.230469 0.250000 ) ( 4520 3332 458 0.218750 0.250000 ) ( 4520 3330 459.500000 0.234375 0.250000 ) ( 4520 3328 461 0.250000 0.250000 ) )
@@ -19633,7 +19633,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3320 454 0.312500 0.250000 ) ( 4520 3326 459 0.265625 0.250000 ) ( 4520 3324 480 0.281250 0.250000 ) )
@@ -19646,7 +19646,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3306 452 0.421875 0.250000 ) ( 4520 3306 466 0.421875 0.250000 ) ( 4520 3306 480 0.421875 0.250000 ) )
@@ -19659,7 +19659,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3302 400 0.453125 0.875000 ) ( 4520 3302 422 0.453125 0.703125 ) ( 4520 3302 444 0.453125 0.531250 ) ( 4520 3302 448 0.453125 0.500000 ) ( 4520 3302 452 0.453125 0.468750 ) )
@@ -19672,7 +19672,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3328 461 0 0 ) ( 4520 3328 461.500000 0 0 ) ( 4520 3328 462 0 0 ) )
@@ -19685,7 +19685,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3332 458 0 0.999512 ) ( 4520 3333.500000 458 0 0.999756 ) ( 4520 3335 458 0 1 ) )
@@ -19698,7 +19698,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3328 456 0 0.998535 ) ( 4520 3328 454 0 0.999268 ) ( 4520 3328 452 0 1 ) )
@@ -19711,7 +19711,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3320 454 0 0.998047 ) ( 4520 3320 450 0 0.999023 ) ( 4520 3320 448 0 1 ) )
@@ -19724,7 +19724,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3306 452 0 0.997070 ) ( 4520 3306 448 0 0.998535 ) ( 4520 3306 444 0 1 ) )
@@ -19737,7 +19737,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3302 452 0 0.978407 ) ( 4520 3302 447 0 0.980849 ) ( 4520 3302 444 0 0.982314 ) ( 4520 3302 426 0 0.991157 ) ( 4520 3302 408 0 1 ) )
@@ -19750,7 +19750,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3264 462 0 0 ) ( 4520 3264 461.500000 0 0 ) ( 4520 3264 461 0 0 ) )
@@ -19763,7 +19763,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3257 458 0 1 ) ( 4520 3258.500000 458 0 0.999756 ) ( 4520 3260 458 0 0.999512 ) )
@@ -19776,7 +19776,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3264 452 0 1 ) ( 4520 3264 454 0 0.999268 ) ( 4520 3264 456 0 0.998535 ) )
@@ -19789,7 +19789,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3272 448 0 1 ) ( 4520 3272 450 0 0.999023 ) ( 4520 3272 454 0 0.998047 ) )
@@ -19802,7 +19802,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 3 0 0 0 )
 (
 ( ( 4520 3286 444 0 1 ) ( 4520 3286 448 0 0.998535 ) ( 4520 3286 452 0 0.997070 ) )
@@ -19815,7 +19815,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 4520 3290 408 0 1 ) ( 4520 3290 426 0 0.991157 ) ( 4520 3290 444 0 0.982314 ) ( 4520 3290 447 0 0.980849 ) ( 4520 3290 452 0 0.978407 ) )
@@ -19828,7 +19828,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4520 3300 444 0 1 ) ( 4520 3300 448 0 0.998047 ) ( 4520 3300 452 0 0.996094 ) )
@@ -19843,7 +19843,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4520 3264 320 0 1 ) ( 4520 3296 320 0 0.500000 ) ( 4520 3328 320 0 0 ) )
@@ -19858,7 +19858,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 5 3 0 0 0 )
 (
 ( ( 4520 3328 576 0 1 ) ( 4520 3296 576 0 0.500000 ) ( 4520 3264 576 0 0 ) )
@@ -24825,7 +24825,7 @@ racepack5/u_pan1b
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 224 1984 -64 0.437500 0.687500 ) ( 224 2080 -64 0.812500 0.687500 ) ( 320 2080 -64 0.812500 0.687500 ) ( 416 2080 -64 0.812500 0.687500 ) ( 416 1984 -64 0.437500 0.687500 ) )
@@ -24838,7 +24838,7 @@ ss/forcefield_ss
 {
 patchDef2
 {
-ss/forcefield_ss
+racepack5/forcefield_ss
 ( 3 5 0 0 0 )
 (
 ( ( 224 1984 -80 0.437500 0.937500 ) ( 224 1888 -80 0.062500 0.937500 ) ( 320 1888 -80 0.062500 0.937500 ) ( 416 1888 -80 0.062500 0.937500 ) ( 416 1984 -80 0.437500 0.937500 ) )
@@ -27224,6 +27224,15 @@ racepack5/ubase_trim5
 ( ( 64 192 -80 1 1 ) ( 64 192 -72 1 0.500000 ) ( 64 192 -64 1 0 ) )
 )
 }
+}
+// brush 2117
+{
+( 552 280 280 ) ( 552 112 280 ) ( 552 112 272 ) racepack5/forcefield_ss 0 0 0 0.250000 0.250000 0 0 0
+( 1064 280 264 ) ( 888 280 264 ) ( 888 280 256 ) racepack5/forcefield_ss 0 0 0 0.250000 0.250000 0 0 0
+( 1064 112 264 ) ( 1064 280 264 ) ( 1064 280 256 ) racepack5/forcefield_ss 0 0 0 0.250000 0.250000 0 0 0
+( 912 -40 264 ) ( 1088 -40 264 ) ( 1088 -40 256 ) racepack5/forcefield_ss 0 0 0 0.250000 0.250000 0 0 0
+( 960 112 808 ) ( 960 280 808 ) ( 1136 280 808 ) racepack5/forcefield_ss 0 0 0 0.250000 0.250000 0 0 0
+( 1064 280 256 ) ( 888 280 256 ) ( 888 112 256 ) racepack5/forcefield_ss 0 0 0 0.250000 0.250000 0 0 0
 }
 }
 // entity 1
