@@ -5,3 +5,19 @@ Jump 1?
 http://upsgaming.com/forums/viewtopic.php?f=16&t=787
 
 http://upsgaming.com/forums/viewtopic.php?f=16&t=697
+
+
+
+____
+
+zeel-recapture
+kabcorp-sylvan
+
+
+main room:
+target_restricts with targetnames haste_item_on and haste_item_off
+target relay goes from maintele -> haste_item_off
+
+timer sounds
+sound/interface/secret_area.mp3
+sound/interface/update.mp3
