@@ -922,7 +922,7 @@ textures/racepack5/qzterra1
 	surfaceparm nolightmap
 	surfaceparm sky
 	q3map_sunExt 0.9 0.8 1.0 50 80 60 2 16
-	q3map_surfacelight 100
+	q3map_surfacelight 400
 	q3map_lightImage textures/racepack5/fill_light.jpg
 	skyparms textures/racepack5/env/terra1 - -
 	{
