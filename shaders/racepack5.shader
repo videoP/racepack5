@@ -1940,6 +1940,21 @@ textures/racepack5/invisilight_shader
 	}
 }
 
+textures/racepack5/beam
+{
+        surfaceparm trans	
+        surfaceparm nomarks	
+        surfaceparm nonsolid
+	surfaceparm nolightmap
+	cull none
+	surfaceparm nomipmaps
+	{
+		map textures/racepack5/beam.tga
+                tcMod Scroll .3 0
+                blendFunc add
+        }     
+}
+
 textures/racepack5/mp_sdfsky
 {
 	qer_editorimage textures/racepack5/env/sdfsky-ft.jpg
