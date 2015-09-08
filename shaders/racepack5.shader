@@ -1940,3 +1940,16 @@ textures/racepack5/invisilight_shader
 	}
 }
 
+textures/racepack5/mp_sdfsky
+{
+	qer_editorimage textures/racepack5/env/sdfsky-ft.jpg
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	q3map_globaltexture
+	q3map_lightsubdivide 256
+	q3map_surfacelight 100
+	surfaceparm sky
+	q3map_sun 1 1 1 255 255 255
+	skyparms textures/racepack5/env/sdfsky - -
+}
+
