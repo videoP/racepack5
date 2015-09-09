@@ -1968,3 +1968,23 @@ textures/racepack5/mp_sdfsky
 	skyparms textures/racepack5/env/sdfsky - -
 }
 
+textures/racepack5/e8metal_blue_shiney
+{
+	qer_editorimage textures/racepack5/e8metal_blue.tga
+	{
+		map textures/racepack5/tinfx.tga
+		rgbGen identity
+		tcGen environment 
+	}
+	{
+		map textures/racepack5/e8metal_blue.tga
+		blendfunc blend
+		rgbGen identity
+	}
+	{
+		map $lightmap 
+		blendfunc gl_dst_color gl_one_minus_dst_alpha
+		rgbGen identity
+		tcGen lightmap 
+	}
+}
