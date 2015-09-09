@@ -402,12 +402,35 @@ textures/arctic/floorgrate1_1
 textures/arctic/floorgrate1_2
 {
 	qer_editorimage textures/arctic/floorgrate1_2.TGA
-	surfaceparm trans
+	surfaceparm alphashadow
 	cull none
 	nopicmip
 
 	{
 		map textures/arctic/floorgrate1_2.TGA
+		tcMod scale 1 1
+		blendFunc GL_ONE GL_ZERO
+		alphaFunc GE128
+		depthWrite
+		rgbGen identity
+	}
+	{
+		map $lightmap
+		rgbGen identity
+		blendFunc GL_DST_COLOR GL_ZERO
+		depthFunc equal
+	}
+}
+
+textures/arctic/testshadow
+{
+	qer_editorimage textures/arctic/gratewall1_1.tga
+	surfaceparm alphashadow
+	cull none
+	nopicmip
+
+	{
+		map textures/arctic/gratewall1_1.tga
 		tcMod scale 1 1
 		blendFunc GL_ONE GL_ZERO
 		alphaFunc GE128
