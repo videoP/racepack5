@@ -2041,3 +2041,13 @@ textures/racepack5/orangeflare
             blendFunc GL_ONE GL_ONE
           }
 }
+
+textures/racepack5/fog_timdm8
+{
+surfaceparm	trans
+surfaceparm	nonsolid
+surfaceparm	fog
+surfaceparm	nolightmap
+
+fogparms ( .211 .231 .094 ) 250
+}
