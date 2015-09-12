@@ -1988,3 +1988,56 @@ textures/racepack5/e8metal_blue_shiney
 		tcGen lightmap 
 	}
 }
+
+textures/racepack5/white_100
+{
+	q3map_lightimage textures/racepack5/white_light.tga
+	qer_editorimage textures/racepack5/white_100.tga
+	qer_trans 0.5
+
+	surfaceparm nonsolid
+	surfaceparm nolightmap
+	surfaceparm trans
+
+	
+	q3map_surfacelight 100
+
+	{
+		rgbGen identity
+	}
+}
+
+
+textures/racepack5/white_50
+{
+	q3map_lightimage textures/racepack5/white_light.tga
+	qer_editorimage textures/racepack5/white_50.tga
+	qer_trans 0.5
+
+	surfaceparm nonsolid
+	surfaceparm nolightmap
+	surfaceparm trans
+
+	
+	q3map_surfacelight 50
+
+	{
+		rgbGen identity
+	}
+}
+
+textures/racepack5/orangeflare 
+{
+    qer_editorimage textures/racepack5/orangeflare.tga
+    qer_trans 0.50
+    deformVertexes autoSprite
+    surfaceparm trans
+    surfaceparm nomarks
+    surfaceparm nolightmap
+    surfaceparm nonsolid
+    cull none
+          {
+            clampmap textures/racepack5/orangeflare.tga
+            blendFunc GL_ONE GL_ONE
+          }
+}
