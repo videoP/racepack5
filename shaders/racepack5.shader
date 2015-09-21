@@ -412,6 +412,29 @@ textures/racepack5/u_lamplong1_blue
 	}
 }
 
+textures/racepack5/u_thinline1_blue
+{
+	qer_editorimage textures/racepack5/u_thinline1_blue.tga
+	q3map_lightimage textures/racepack5/u_thinline1_blue_blend.tga
+	surfaceparm nodlight
+	surfaceparm nomarks
+	q3map_surfacelight 2000
+	{
+		map textures/racepack5/u_thinline1_blue.tga
+		rgbGen identity
+	}
+	{
+		map $lightmap 
+		blendfunc filter
+		tcGen lightmap 
+	}
+	{
+		map textures/racepack5/u_thinline1_blue_blend.tga
+		blendfunc gl_one_minus_dst_color gl_one
+		rgbGen wave sin 0.9 0.2 0 0.3 
+	}
+}
+
 textures/racepack5/forcefield_ss
 {
 	qer_editorimage textures/racepack5/forcefield_ss.tga
