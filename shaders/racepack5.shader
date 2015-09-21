@@ -276,7 +276,7 @@ textures/racepack5/iceflow_skybox
 	q3map_surfacelight 100
 	surfaceparm sky
 	q3map_sun 0.266383 0.274632 0.358662 150 60 85
-	skyparms racepack5/iceflow - -
+	skyparms textures/racepack5/iceflow - -
 }
 
 textures/racepack5/u_gr8_12a
