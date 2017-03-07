@@ -1,0 +1,80 @@
+Readme File:
+*************************** 
+JEDI KNIGHT 2 and 3
+*************************** 
+
+Title : B-mountain
+Author : Acrobat
+Contact email: acrobatmapping@live.com
+
+
+File Version: 1
+Size: about 9 megs
+File Name : B-mountain.pk3 
+Completion date: 09/29/16
+Brush count: approx 1000
+Entity count: 20
+Net brush count (nonentity): 1000
+----------------------------------------------------------------
+
+This map works for both jk3 and jk2. I'm releasing it for jk3, but if you put this version in jk2 it is 100% compatible.
+
+It has trigger #1 at start and trigger #2 at end that modders can use for racing
+
+-Updated it for better fps
+-Updated with a blank trigger multple at start and finish for some mods to assign as start and end race triggers
+-Updated with second set of triggers df_trigger_start and df_trigger_finish
+
+
+----------------------------------------------------------------
+Description: 
+Yavin style climbing map
+----------------------------------------------------------------
+
+Credits:
+
+Boddo made me a tutorial for how to make the CG-ish looking brick textures in the main room called n-wall1, n-wall2 and n-wall3.
+Naboo map for skybox
+
+----------------------------------------------------------------
+
+Map Information:
+
+New Textures: yes
+New Music: yes
+New sounds: not yet
+New Models: not yet
+
+
+Game types are ffa
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+Worldspawn Information
+
+_lightmapscale 8
+_blocksize 0
+_chopsize 0
+ambient 17
+distancecull 131048
+
+
+----------------------------------------------------------------
+Bugs
+
+Music only works in jk2
+----------------------------------------------------------------
+
+
+
+
+* How to install * 
+
+Just put the Expedition.pk3 in your GameData\base game directory
+
+
+------------------------------------------------------------------
+THIS MODIFICATION IS NOT MADE, DISTRIBUTED, OR SUPPORTED BY ACTIVISION, RAVEN, OR
+LUCASARTS ENTERTAINMENT COMPANY LLC. ELEMENTS TM & © LUCASARTS
+ENTERTAINMENT COMPANY LLC AND/OR ITS LICENSORS.

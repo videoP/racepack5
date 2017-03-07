@@ -60,6 +60,73 @@ textures/racepack5/light
 	}
 }
 
+textures/racepack5/warm_100
+{
+	q3map_lightimage textures/racepack5/warm_light.tga
+	qer_editorimage textures/racepack5/warm_100.tga
+	qer_trans 0.5
+
+	surfaceparm nonsolid
+	surfaceparm nolightmap
+	surfaceparm trans
+
+	
+	q3map_surfacelight 100
+
+	{
+		// map $lightmap
+		rgbGen identity
+	}
+}
+
+textures/racepack5/warm_50
+{
+	q3map_lightimage textures/racepack5/warm_light.tga
+	qer_editorimage textures/racepack5/warm_50.tga
+	qer_trans 0.5
+
+	surfaceparm nonsolid
+	surfaceparm nolightmap
+	surfaceparm trans
+
+	
+	q3map_surfacelight 50
+
+	{
+		// map $lightmap
+		rgbGen identity
+	}
+}
+
+textures/racepack5/wateroil
+{
+	qer_editorimage	textures/byss/env_large_floor
+	qer_trans	0.1
+	surfaceparm	nonsolid
+	surfaceparm	nonopaque
+	surfaceparm	water
+	surfaceparm	trans
+	q3map_material	Water
+	deformvertexes	wave	200 sin 1 1.5 0 2
+    {
+		map textures/racepack5/water
+		blendFunc GL_DST_COLOR GL_ZERO
+    }
+    {
+        map textures/byss/env_large_floor
+        blendFunc GL_ONE GL_SRC_ALPHA
+	tcGen environment
+        alphaFunc GE128
+	alphaGen const 1.0
+	tcMod turb 0.01 0.03 5 0.1
+	tcMod stretch noise 1 0.01 1 1
+    }
+    {
+        map $lightmap
+	blendFunc GL_DST_COLOR GL_ZERO
+    }
+}
+
 textures/racepack5/siwa_water_2
 {
 	qer_editorimage textures/racepack5/siwa_water.tga
@@ -496,7 +563,7 @@ textures/racepack5/mega_forest_sky
 
 textures/racepack5/deersky
 {
-	nocompress
+	nopicmip
 	qer_editorimage textures/racepack5/deersky_ft.tga
 	q3map_lightimage textures/racepack5/deersky1_ft.tga
 	q3map_sunExt .94 .85 .67 120 282 23 .5 16
@@ -908,36 +975,6 @@ textures/racepack5/flame1
 
 }
 
-textures/racepack5/flameanim_blue
-{
-	qer_editorimage textures/racepack5/b_flame1.tga
-	q3map_lightimage textures/racepack5/b_flame7.tga
-	surfaceparm trans
-	surfaceparm nomarks
-	surfaceparm nolightmap
-	cull none
-	q3map_surfacelight 1800
-	{
-		animMap 10 textures/racepack5/b_flame1.tga textures/racepack5/b_flame2.tga textures/racepack5/b_flame3.tga textures/racepack5/b_flame4.tga textures/racepack5/b_flame5.tga textures/racepack5/b_flame6.tga textures/racepack5/b_flame7.tga textures/racepack5/b_flame8.tga
-		blendfunc add
-		rgbGen wave inverseSawtooth 0 1 0 10
-		
-	}	
-	{
-		animMap 10 textures/racepack5/b_flame2.tga textures/racepack5/b_flame3.tga textures/racepack5/b_flame4.tga textures/racepack5/b_flame5.tga textures/racepack5/b_flame6.tga textures/racepack5/b_flame7.tga textures/racepack5/b_flame8.tga textures/racepack5/b_flame1.tga
-		blendfunc add
-		rgbGen wave sawtooth 0 1 0 10
-	}	
-
-
-	{
-		map textures/racepack5/b_flameball.tga
-		blendfunc add
-		rgbGen wave sin .6 .2 0 .6	
-	}
-
-}
-
 textures/racepack5/qzterra1
 {
 	qer_editorimage textures/racepack5/lightn_clouds2.tga
@@ -947,7 +984,7 @@ textures/racepack5/qzterra1
 	q3map_sunExt 0.9 0.8 1.0 50 80 60 2 16
 	q3map_surfacelight 400
 	q3map_lightImage textures/racepack5/fill_light.jpg
-	skyparms textures/racepack5/env/terra1 - -
+	skyparms textures/racepack5/terra1 - -
 	{
 		map textures/racepack5/meth_clouds2.tga
 		blendfunc add
@@ -1980,7 +2017,7 @@ textures/racepack5/beam
 
 textures/racepack5/mp_sdfsky
 {
-	qer_editorimage textures/racepack5/env/sdfsky-ft.jpg
+	qer_editorimage textures/racepack5/sdfsky_ft.jpg
 	surfaceparm noimpact
 	surfaceparm nolightmap
 	q3map_globaltexture
@@ -1988,7 +2025,7 @@ textures/racepack5/mp_sdfsky
 	q3map_surfacelight 100
 	surfaceparm sky
 	q3map_sun 1 1 1 255 255 255
-	skyparms textures/racepack5/env/sdfsky - -
+	skyparms textures/racepack5/sdfsky - -
 }
 
 textures/racepack5/e8metal_blue_shiney
@@ -2100,4 +2137,220 @@ textures/racepack5/purplejello
 	blendFunc GL_ONE GL_ONE
 	tcGen environment
 	}
+}
+
+textures/racepack5/doorArcaon
+{
+    qer_editorimage textures/racepack5/doorArcaon
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorArcaon
+    }
+}
+
+textures/racepack5/doorBMountain
+{
+    qer_editorimage textures/racepack5/doorBMountain
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorBMountain
+    }
+}
+
+textures/racepack5/doorExzeel
+{
+    qer_editorimage textures/racepack5/doorExzeel
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorExzeel
+    }
+}
+
+textures/racepack5/doorGannd
+{
+    qer_editorimage textures/racepack5/doorGannd
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorGannd
+    }
+}
+
+textures/racepack5/doorHunterun
+{
+    qer_editorimage textures/racepack5/doorHunterun
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorHunterun
+    }
+}
+
+textures/racepack5/doorIcebase
+{
+    qer_editorimage textures/racepack5/doorIcebase
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorIcebase
+    }
+}
+
+textures/racepack5/doorLeoorun
+{
+    qer_editorimage textures/racepack5/doorLeoorun
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorLeoorun
+    }
+}
+
+textures/racepack5/doorMetal3
+{
+    qer_editorimage textures/racepack5/doorMetal3
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorMetal3
+    }
+}
+
+textures/racepack5/doorMinibagel
+{
+    qer_editorimage textures/racepack5/doorMinibagel
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorMinibagel
+    }
+}
+
+textures/racepack5/doorMucki2
+{
+    qer_editorimage textures/racepack5/doorMucki2
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorMucki2
+    }
+}
+
+textures/racepack5/doorNinjadeer
+{
+    qer_editorimage textures/racepack5/doorNinjadeer
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorNinjadeer
+    }
+}
+
+textures/racepack5/doorRecapture
+{
+    qer_editorimage textures/racepack5/doorRecapture
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorRecapture
+    }
+}
+
+textures/racepack5/doorRedd
+{
+    qer_editorimage textures/racepack5/doorRedd
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorRedd
+    }
+}
+
+textures/racepack5/doorSlopin
+{
+    qer_editorimage textures/racepack5/doorSlopin
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorSlopin
+    }
+}
+
+textures/racepack5/doorSylvan
+{
+    qer_editorimage textures/racepack5/doorSylvan
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorSylvan
+    }
+}
+
+textures/racepack5/doorTorture
+{
+    qer_editorimage textures/racepack5/doorTorture
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorTorture
+    }
+}
+
+textures/racepack5/doorWoody
+{
+    qer_editorimage textures/racepack5/doorWoody
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorWoody
+    }
+}
+
+textures/racepack5/doorWTF
+{
+    qer_editorimage textures/racepack5/doorWTF
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack5/doorWTF
+    }
 }

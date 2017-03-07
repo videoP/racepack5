@@ -1,0 +1,36 @@
+
+sylvan needs texture rotating .. idk
+
+Door textures need to be made for each course
+Forcejump level needs to be decided for all courses
+
+Combine checkpoints into 1 trigger
+Combine teleport door and lava hazards into 1 trigger per course
+
+
+recapture 	- jump3
+icebase 	- jump1
+b-mountain 	- jump3
+sylvan 		- jump1
+gaand 		- jump1
+redd 		- jump1
+wtf 		- jump1
+woody 		- jump2
+hunterun 	- jump1
+slopin 		- jump1
+exzeel 		- jump1
+minibagel 	- jump1
+arcaon 		- jump1
+leoorun14 	- jump2
+mucki1 		- jump1
+ninjadeer 	- jump1
+torture 	- jump1
+metal 3 	- jump3
+
+
+Test: find: 
+
+texture problems
+teleport problems
+
+levelshot
