@@ -5,7 +5,7 @@ target
 Starts the timer.
 */
 
-/*QUAKED df_trigger_finish (.1 .5 .1) ? JUMP1_ONLY JUMP2_ONLY JUMP3_ONLY ALLOW_HASTE ALLOW_JETPACK
+/*QUAKED df_trigger_finish (.1 .5 .1) ? JUMP1_ONLY JUMP2_ONLY JUMP3_ONLY ALLOW_HASTE ALLOW_JETPACK NOT_IN_CTF
 noise - sound it makes.
 awesomenoise - sound it makes when time is below 'speed' key (only in jka style).
 speed - max time in ms to play awesomenoise.
@@ -103,4 +103,13 @@ target4		-	fire when activated by team2
 idealclass	-	Can only be used by this class/these classes. You can specify use by
 				multiple classes with the use of |, e.g.:
 				"Imperial Medic|Imperial Assassin|Imperial Demolitionist"
+*/
+
+/*QUAKED trigger_teleport (.5 .5 .5) ? SPECTATOR KEEP_VELOCITY RACEMODE_ONLY
+Allows client side prediction of teleportation events.
+Must point at a target_position, which will be the teleport destination.
+
+If spectator is set, only spectators can use this teleport
+Spectator teleporters are not normally placed in the editor, but are created
+automatically near doors to allow spectators to move through them
 */
