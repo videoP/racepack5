@@ -27,7 +27,7 @@ speed - scale to use
 Sets activators velocity
 */
 
-/*QUAKED target_restrict (1 0 0) (-8 -8 -8) (8 8 8) REMOVE_RESTRICTIONS HASTE REMOVE_NEUTRALFLAG
+/*QUAKED target_restrict (1 0 0) (-8 -8 -8) (8 8 8) REMOVE_RESTRICTIONS HASTE REMOVE_NEUTRALFLAG SET_JUMPLEVEL SET_MOVEPHYSICS
 
 REMOVE_RESTRICTIONS - Removes the specified restrictions (default only bhop)
 HASTE - Replaces the default onlybhop restriction with haste.
