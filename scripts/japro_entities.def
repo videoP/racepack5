@@ -20,14 +20,14 @@ noise - sound it makes.
 Prints current time.
 */
 
-/*QUAKED trigger_newpush (.1 .5 .1) ? XVEL YVEL ZVEL PLAYERONLY NPCONLY
+/*QUAKED trigger_newpush (.1 .5 .1) ? XVEL YVEL ZVEL PLAYERONLY NPCONLY ONEWAY
 noise - sound it makes.
-speed - scale to use
+speed - scale to use (or angle 0,90,180,270 with ONEWAY)
 
 Sets activators velocity
 */
 
-/*QUAKED target_restrict (1 0 0) (-8 -8 -8) (8 8 8) REMOVE_RESTRICTIONS HASTE REMOVE_NEUTRALFLAG SET_JUMPLEVEL SET_MOVEPHYSICS YSAL
+/*QUAKED target_restrict (1 0 0) (-8 -8 -8) (8 8 8) REMOVE_RESTRICTIONS HASTE REMOVE_NEUTRALFLAG SET_JUMPLEVEL SET_MOVEPHYSICS YSAL CROUCHJUMP DOUBLEJUMP ALLOWTELES RESETTIMER ADJUSTTIME
 
 REMOVE_RESTRICTIONS - Removes the specified restrictions (default only bhop)
 HASTE - Replaces the default onlybhop restriction with haste.
